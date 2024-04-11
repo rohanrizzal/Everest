@@ -1,0 +1,33 @@
+body {
+    padding: 30px;
+    background-image: url(everest.jpg);
+}
+
+#text {
+    margin: auto;
+    background-color: #96b8c29f;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+#heading {
+    color: black;
+    text-align: center;
+}
+
+.btn {
+    margin-left: 45%;
+    cursor: pointer;
+    display: inline-block;
+    padding: 12px 34px;
+    font-size: 13px;
+}
+
+.btn:hover {
+    background: rgba(238, 255, 0, 0.7);
+}
+footer {
+    margin-top: 140px;
+    text-align: center;
+    color: #ffffff;
+}
